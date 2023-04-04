@@ -1,0 +1,19 @@
+.List{
+    margin-top: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100vw; 
+   flex-wrap: wrap;
+   gap: 20px;
+   font-family: 'Poppins', sans-serif;
+
+}
+.ListItem{
+    box-sizing: border-box;
+    width: 80%;
+    background-color: rgb(230, 230, 230);
+    padding-left: 10px;
+    height: fit-content;
+    overflow: hidden;
+}
